@@ -18,7 +18,7 @@
     <h2>Pré-requisitos</h2>
     <p>Para acompanhar esta disciplina, é recomendável ter conhecimentos básicos de lógica e matemática. Além disso, é necessário ter um ambiente de desenvolvimento integrado (IDE) para escrever e executar os programas em C++. Uma opção gratuita e popular é o [Code::Blocks], que pode ser baixado [aqui].</p>
     <h2>Avaliação</h2>
-    <p>A avaliação da disciplina será composta por três provas escritas e um projeto final. As provas terão peso de 60% da nota final, e o projeto terá peso de 40%. O projeto consistirá em desenvolver um programa em C++ que resolva um problema real ou fictício, utilizando os conceitos aprendidos na disciplina. O projeto deverá ser entregue até o final do semestre, juntamente com um relatório explicando o funcionamento do programa, as dificuldades encontradas e as soluções adotadas.</p>
+    <p>A avaliação da disciplina foi simples e os exercícios de resolução estão em anexo tambémm.</p>
     <h2>Materiais de apoio</h2>
     <p>Os slides das aulas, os exercícios propostos e os exemplos de código estarão disponíveis no repositório do GITHUB da disciplina, que pode ser acessado [aqui]. Além disso, recomenda-se a leitura dos seguintes livros:</p>
     <ol>
